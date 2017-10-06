@@ -1,0 +1,53 @@
+('minten200/gates_1.jpg', 0.0)
+('minten200/gates_2.jpg', 0.40418924767905545)
+('minten200/gates_5.jpg', 0.42968211645473098)
+('minten200/gates_12.jpg', 0.44512207465609954)
+('minten200/gates_3.jpg', 0.47928285425717104)
+('minten200/gates_8.jpg', 0.51470093799240424)
+('minten200/gore_150.jpg', 0.58256191482653819)
+('minten200/gore_112.jpg', 0.59035359864813342)
+('minten200/gore_100.jpg', 0.60070291573731094)
+('minten200/gore_96.jpg', 0.6293659451929412)
+
+PCA - 60%
+('minten200/gates_1.jpg', 0.0)
+('minten200/gates_12.jpg', 0.12189333246515831)
+('minten200/gates_5.jpg', 0.14482456185788484)
+('minten200/gates_2.jpg', 0.14590081901447688)
+('minten200/gates_3.jpg', 0.18716386770917001)
+('minten200/gore_129.jpg', 0.2227394437939362)
+('minten200/gates_8.jpg', 0.24488544143084298)
+('minten200/gore_144.jpg', 0.24652577859015817)
+('minten200/gore_118.jpg', 0.27848298857446813)
+('minten200/jobs_16.jpg', 0.28916533520611903)
+
+K-Means
+('minten200/gates_1.jpg', 0.0)
+('minten200/gates_2.jpg', 0.40418924767905545)
+('minten200/gates_5.jpg', 0.42968211645473098)
+('minten200/gates_12.jpg', 0.44512207465609954)
+('minten200/gates_3.jpg', 0.47928285425717104)
+('minten200/gates_8.jpg', 0.51470093799240424)
+('minten200/gore_150.jpg', 0.58256191482653819)
+('minten200/gore_118.jpg', 0.63480737862149605)
+('minten200/jobs_0.jpg', 0.64176421915029214)
+('minten200/jobs_19.jpg', 0.64347904881013684)
+
+
+K-means min 3 - 70%
+
+('minten200/gates_1.jpg', 0.0)
+('minten200/gates_2.jpg', 0.40418924767905545)
+('minten200/gates_5.jpg', 0.42968211645473098)
+('minten200/gates_12.jpg', 0.44512207465609954)
+('minten200/gates_3.jpg', 0.47928285425717104)
+('minten200/gates_8.jpg', 0.51470093799240424)
+('minten200/gore_150.jpg', 0.58256191482653819)
+('minten200/gore_118.jpg', 0.63480737862149605)
+('minten200/jobs_0.jpg', 0.64176421915029214)
+('minten200/jobs_19.jpg', 0.64347904881013684)
+
+
+155.474338055
+
+

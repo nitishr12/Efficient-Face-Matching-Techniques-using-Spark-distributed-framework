@@ -1,0 +1,55 @@
+('minten200/adambrody_14.jpg', 0.71464563200986275)
+('minten200/adambrody_21.jpg', 0.72016646374268911)
+('minten200/adambrody_6.jpg', 0.72719764233472717)
+('minten200/gore_97.jpg', 0.74406091845905087)
+('minten200/adambrody_7.jpg', 0.75012811370007859)
+('minten200/gates_5.jpg', 0.75233880608558246)
+('minten200/adambrody_15.jpg', 0.75599902087320736)
+('minten200/adambrody_18.jpg', 0.75769321049765936)
+('minten200/adambrody_22.jpg', 0.7627056051300245)
+('minten200/michelle_281.jpg', 0.77020465744686128)
+
+
+PCA - 60%
+
+('minten200/adambrody_16.jpg', 0.36066872940932249)
+('minten200/adambrody_21.jpg', 0.36761941181612728)
+('minten200/adambrody_6.jpg', 0.36894976468158885)
+('minten200/adambrody_15.jpg', 0.39249272045526423)
+('minten200/adambrody_14.jpg', 0.39759089277495135)
+('minten200/carter_74.jpg', 0.40183595988847154)
+('minten200/adambrody_1.jpg', 0.42103989179294404)
+('minten200/adambrody_18.jpg', 0.42865040241813451)
+('minten200/jobs_29.jpg', 0.42884522310314827)
+('minten200/gore_97.jpg', 0.4294949366661675)
+
+
+K-means with min 1 cluster if less than 10 include subsequent cluster
+
+('minten200/adambrody_14.jpg', 0.71464563200986275)
+('minten200/adambrody_21.jpg', 0.72016646374268911)
+('minten200/adambrody_6.jpg', 0.72719764233472717)
+('minten200/adambrody_7.jpg', 0.75012811370007859)
+('minten200/adambrody_15.jpg', 0.75599902087320736)
+('minten200/adambrody_18.jpg', 0.75769321049765936)
+('minten200/adambrody_22.jpg', 0.7627056051300245)
+('minten200/adambrody_31.jpg', 0.78151430613036033)
+('minten200/adambrody_13.jpg', 0.79356540278297483)
+('minten200/adambrody_3.jpg', 0.79698574643755415)
+
+K means with min 3 cluster - 80%
+
+('minten200/adambrody_14.jpg', 0.71464563200986275)
+('minten200/adambrody_21.jpg', 0.72016646374268911)
+('minten200/adambrody_6.jpg', 0.72719764233472717)
+('minten200/adambrody_7.jpg', 0.75012811370007859)
+('minten200/adambrody_15.jpg', 0.75599902087320736)
+('minten200/adambrody_18.jpg', 0.75769321049765936)
+('minten200/adambrody_22.jpg', 0.7627056051300245)
+('minten200/michelle_281.jpg', 0.77020465744686128)
+('minten200/michelle_220.jpg', 0.78062946247322962)
+('minten200/michelle_259.jpg', 0.7810545988441967)
+
+
+
+
